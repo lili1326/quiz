@@ -1,0 +1,4 @@
+function direBonjour() {
+    alert("Bonjour 👋 !");
+  }
+  
